@@ -1,6 +1,6 @@
 # 📊 Bank Loan Analysis — Power BI Dashboard
 
-## Syntecxhub Data Analysis Internship | Project 1
+## Syntecxhub Data Analysis Internship | Week 4
 
 **Author:** Poweide Abigail Edonkumoh  
 **Role:** Entry-Level Data Analyst  
